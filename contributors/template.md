@@ -1,20 +1,19 @@
 # Nome Cognome
-
+Francesco Carrieri
 ## Matricola
-123456
+555099
 
 ## Corso
 Laurea Triennale in Informatica – Programmazione ad Oggetti
 
 ## Chi sono
-Breve descrizione di te (2-3 righe). Racconta qualcosa di te stesso: da dove vieni,
-cosa studi, cosa ti appassiona.
+sono arbitro di calcio in Eccellenza, mi piace leggere libri e manga, giocare ai videogiochi, guardare serie tv e anime, insomma sono un nerd
 
 ## Interessi in Informatica
-- Argomento 1
-- Argomento 2
-- Argomento 3
+- CyberSecurity
+- falle nei codici dei videogiochi che si possono applicare ad esempio nelle speedrun o sfide tecnologiche
+  
 
 ## Contatti
-- GitHub: [@tuousername](https://github.com/tuousername)
-- Email: matricola@studenti.unime.it
+- GitHub: [@francescocarrieri04](https://github.com/francescocarrieri04)
+- Email: francesco.carrieri@studenti.unime.it
